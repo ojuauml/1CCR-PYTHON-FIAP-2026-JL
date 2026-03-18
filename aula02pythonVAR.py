@@ -7,6 +7,6 @@ ano = input("Ano de nascimento: ")
 print(dia,"/", mes, "/", ano)
 
 
-num1 = float(input("\nDigite um valor: "))
-num2 = float(input("Digite outro valor: "))
-print("\nResultado = " , num1 + num2)
+num1 = float(input("Digite um valor: "))
+num2 = float(input("\nDigite outro valor: "))
+print("Resultado = " , num1 + num2)
